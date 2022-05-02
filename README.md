@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="80px"></h2>
 
-<!--
-**alexgeis/alexgeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Geis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexngeis/)](https://www.linkedin.com/in/alexngeis/)
+<!-- <a href="https://github.com/alexgeis">
+  <img align="left" alt="Alex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a> -->
+<!-- <a href="https://t.me/darshanjain01">
+  <img align="left" alt="Darshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a> -->
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-Here are some ideas to get you started:
+### I am Alex Geis
+- Full-Stack (MERN) developer & coding enthusiast.
+- Currently working on my portfolio, personal projects based on music interests and full-stack applications, and refining knowledge.
+- I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Alex Geis](https://github.com/alexgeis)
