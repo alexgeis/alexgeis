@@ -16,4 +16,4 @@
 - Currently working on a live coding editor, web audio API projects (synth and tutorial page), and refining knowledge.
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
-⭐️ From [Alex Geis](https://github.com/alexgeis)
+<!-- ⭐️ From [Alex Geis](https://github.com/alexgeis) -->
