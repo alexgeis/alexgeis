@@ -13,7 +13,7 @@
 
 ### I am Alex Geis
 - Full-Stack (MERN) developer & coding enthusiast.
-- Currently working on a live coding editor, web audio API projects (synth and tutorial page), and refining knowledge.
+- Currently working on a live coding editor, web audio API projects (synth and music player), and refining knowledge.
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
 <!-- ⭐️ From [Alex Geis](https://github.com/alexgeis) -->
