@@ -169,7 +169,7 @@
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -177,7 +177,7 @@
         alt="Jest"
       />
       <br /><strong>Jest</strong>
-    </td>
+    </td> -->
   </tr>
 </table>
 <!-- ⭐️ From [Alex Geis](https://github.com/alexgeis) -->
