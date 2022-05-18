@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="padding-bottom:10px"/>
 
 ### I am Alex Geis
-- Full-Stack (MERN) developer & coding enthusiast.
+- Full-Stack (MERN) developer & producer of music.
 - Currently working on a live coding editor, web audio API projects (synth and music player), and refining knowledge.
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
