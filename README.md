@@ -9,7 +9,7 @@
 <!-- <a href="https://t.me/darshanjain01">
   <img align="left" alt="Darshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> -->
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="padding-bottom:10px"/>
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="padding-bottom:10px; padding-left:5px;"/>
 
 ### I am Alex Geis
 - Full-Stack (MERN) developer & producer of music.
