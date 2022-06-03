@@ -1,4 +1,4 @@
-## Hello World! <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" style="padding-left:5px; width:30px; height: 30px"></h2>
+## Hello World! <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="bear waving hello" width="50" height="50"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Geis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexngeis/)](https://www.linkedin.com/in/alexngeis/)
 [![Portfolio Badge](https://img.shields.io/badge/-PORTFOLIO-blueviolet?style=flat-square&logoColor=white&link=https://shiny-basbousa-bff09c.netlify.app/)](https://shiny-basbousa-bff09c.netlify.app/)
@@ -9,7 +9,7 @@
 <!-- <a href="https://t.me/darshanjain01">
   <img align="left" alt="Darshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> -->
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="padding-bottom:10px; padding-left:5px;"/>
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width="400" />
 
 ### I am Alex Geis
 - Full-Stack (MERN) developer & producer of music.
