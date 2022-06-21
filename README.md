@@ -77,7 +77,7 @@
       />
       <br /><strong>Redux</strong>
     </td> -->
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
@@ -85,6 +85,15 @@
         alt="Material UI"
       />
       <br /><strong>Material UI</strong>
+    </td> -->
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
