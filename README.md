@@ -17,7 +17,7 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
 
-
+<br>
 
 ## 🔧 Technologies & Tools
 
