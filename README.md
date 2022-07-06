@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width="400" style="padding-left:10px"/>
 
 ### I am Alex Geis
-- Front and back-end (MERN) developer & producer of music.
+- Front and back-end (MERN) developer & producer/DJ.
 - Currently working on a library bookshelf application, web audio API projects (synth and music player), and refining knowledge.
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
