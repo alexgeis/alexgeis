@@ -13,7 +13,7 @@
 
 ### I am Alex Geis
 - Front and back-end (MERN) developer & music producer/DJ.
-- Currently working on a library bookshelf application, web audio API projects (synth and music player), and refining knowledge.
+- Currently working on a todo list application, web audio API projects (synth and music player), and refining knowledge.
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
 
