@@ -6,14 +6,12 @@
 <!-- <a href="https://github.com/alexgeis">
   <img align="left" alt="Alex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> -->
-<!-- <a href="https://t.me/darshanjain01">
-  <img align="left" alt="Darshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a> -->
+
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width="400" style="padding-left:10px"/>
 
 ### I am Alex Geis
-- Front and back-end (MERN) developer & music producer/DJ.
-- Currently working on a todo list application, web audio API projects (synth and music player), and refining knowledge.
+- Front and back-end (MERN) developer & [music producer](https://open.spotify.com/artist/41yri20ft220T9dx4A6mWa?si=RcNrK1skRQqBNTJlS44dWQ) / [DJ](https://www.instagram.com/ghosthopofficial/).
+- Currently working on a DJ song request application and improving as a programmer.
 - I'm currently looking for opportunities. I love to learn and contribute in any possible way.
 
 
@@ -97,12 +95,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Jest"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Jest</strong>
     </td>
   </tr>
   <tr>
