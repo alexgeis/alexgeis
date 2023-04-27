@@ -12,7 +12,7 @@
 ### I am Alex Geis
 - Front and back-end developer
 - [music producer](https://open.spotify.com/artist/41yri20ft220T9dx4A6mWa?si=RcNrK1skRQqBNTJlS44dWQ)
-- [DJ](https://www.instagram.com/ghosthopofficial/).
+- [DJ w/ Ghosthop](https://www.instagram.com/ghosthopofficial/)
 
 
 <br>
