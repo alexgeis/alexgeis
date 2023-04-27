@@ -10,7 +10,9 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width="400" style="padding-left:10px"/>
 
 ### I am Alex Geis
-- Front and back-end developer, [music producer](https://open.spotify.com/artist/41yri20ft220T9dx4A6mWa?si=RcNrK1skRQqBNTJlS44dWQ), and [DJ](https://www.instagram.com/ghosthopofficial/).
+- Front and back-end developer
+- [music producer](https://open.spotify.com/artist/41yri20ft220T9dx4A6mWa?si=RcNrK1skRQqBNTJlS44dWQ)
+- [DJ](https://www.instagram.com/ghosthopofficial/).
 
 
 <br>
