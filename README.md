@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width="400" style="padding-left:10px"/>
 
 ### I am Alex Geis
-- Software Engineer
+- Software Engineer @ [Redwire Space](https://redwirespace.com/)
 - [music producer](https://open.spotify.com/artist/41yri20ft220T9dx4A6mWa?si=RcNrK1skRQqBNTJlS44dWQ)
 - [DJ w/ Some Ghosts](https://www.instagram.com/someghostsofficial/)
 
